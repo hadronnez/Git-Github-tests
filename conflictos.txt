@@ -1,0 +1,5 @@
+Al hacer un merge puede haber conflictos.
+Hay que tener en cuenta que al hacer merge con main el main no se da cuenta de esos cambios, lo que sucede es que se crea un nuevo commit con los datos de main+los de la rama. Puede haber conflicto si hay elementos con igual nombre pero distinto contenid
+Por ejemplo:
+El problema es que encuentre la misma l¡nea de c¢digo cambiada de un archivo a otro. Si son dos l¡neas distintas no hay conflicto.
+Git modifica el archivo en conflicto y te hace modificarlo con la versi¢n que realmente deseas guardar. L¡nea a l¡nea. 

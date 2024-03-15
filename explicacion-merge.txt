@@ -1,0 +1,1 @@
+Cuando fusionas una rama con otra, por ejemplo la rama login con la rama main, los datos de la main sobreescriben los de la login que ya haya, sin embargo, los nuevos archivos que se hayan creado en esa subrama se quedan inalterados, no se borran, no se sobreescriben. 
