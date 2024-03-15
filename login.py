@@ -1,0 +1,1 @@
+En este fichero estoy implementando la funcionalidad de un login. Esto lo hago en una rama aparte de la principal. Cuando lo tengamos implementado, lo integraremos en el main de alguna forma que ya veremos.
